@@ -12,7 +12,7 @@ const port = process.env.PORT || 5000;
 // use : doctorsUser
 // pass : sN3fBu2GCZa4xZWJ
 
-// doctors-portal-firebase-adminsdk.json -- eta hocce download kora json file er name
+// doctors-portal-firebase-adminsdk.json -- eta hocce download kora json file er name all done
 
 const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
 
