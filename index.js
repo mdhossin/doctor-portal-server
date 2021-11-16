@@ -104,7 +104,7 @@ async function run() {
       res.json(result)
     })
 
-    // doctors collection useing post api gog
+    // doctors collection useing post api gog  dd
     app.post("/doctors", async (req, res) => {
       const name = req.body.name;
       const email = req.body.email;
